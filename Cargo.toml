@@ -1,0 +1,12 @@
+[workspace]
+members = [
+  "01-hello-cargo/hello_world",
+  "02-guess-number",
+  "03-basic",
+  "04-ownership",
+  "05-struct",
+  "06_enum_match",
+  "20_a_server",
+]
+
+# https://doc.rust-lang.org/stable/cargo/reference/workspaces.html#the-workspace-section
